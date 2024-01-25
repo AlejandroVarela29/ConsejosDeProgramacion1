@@ -1,0 +1,2 @@
+para usar la interpolacion de strings es asi
+Console.WriteLine($"eh mucho texto {varible} mas texto"
